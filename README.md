@@ -1,0 +1,47 @@
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+----
+
+## Hi, I’m Einer Bravo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+[![](https://visitcount.itsvg.in/api?id=einerb&icon=5&color=1)](https://visitcount.itsvg.in)
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+Developer;I+love+Technology;I+would+like+to+be+a+Computer+Security" /></a>
+</p>
+
+<p align ="center">
+  <a href="mailto:einerbravo@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/einer-bravo" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  </p>
+
+
+<p>I am a Frontend and Backend developer with experience in web languages and technologies and some mobile.  I am passionate about web development and I like to be curious about everything related to this technology world!</p>
+
+
+
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,graphql,nodejs,express,nestjs,laravel,babel,angular,mysql,postgres,mongodb,sqlite,sequelize,bootstrap,tailwind,vite,dart,flutter,linux,vscode,nginx,docker,aws,figma,postman,git,github,gitlab" />
+  </a>
+</p>
+
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+  
+![](https://github-readme-stats.vercel.app/api?username=einerb&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=einerb&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=einerb&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
