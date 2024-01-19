@@ -9,7 +9,7 @@
 ## Hi, I’m Einer Bravo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 [![](https://visitcount.itsvg.in/api?id=einerb&icon=5&color=1)](https://visitcount.itsvg.in)
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+Developer;I+love+Technology;I+would+like+to+be+a+Computer+Security" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+Developer;I+love+Technology;I'd+like+to+be+a+Computer+Security" /></a>
 </p>
 
 <p align ="center">
@@ -22,11 +22,11 @@
   </p>
 
 
-<p>I am a Frontend and Backend developer with experience in web languages and technologies and some mobile.  I am passionate about web development and I like to be curious about everything related to this technology world!</p>
+<p>I'm a versatile Frontend and Backend Developer with proficiency in various web and mobile programming languages and technologies. My passion lies in web development, and I thrive on cultivating curiosity for all things within the technological realm. Committed to staying at the forefront of industry trends, I'm dedicated to creating seamless and innovative solutions that elevate the digital experience :rocket:!</p>
 
 
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://skillicons.dev">
