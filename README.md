@@ -1,5 +1,7 @@
-![snake gif](https://github.com/einerb/einerb/blob/output/github-contribution-grid-snake.gif)
-
+<p align="center">
+  <img  src="https://github.com/einerb/einerb/blob/output/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 ----
 
 ## Hi, I’m Einer Bravo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
