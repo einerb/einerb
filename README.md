@@ -1,7 +1,4 @@
-
-<p align="center">
- ![snake gif](https://github.com/einerb/einerb/blob/output/github-contribution-grid-snake.gif)
-</p>
+![snake gif](https://github.com/einerb/einerb/blob/output/github-contribution-grid-snake.gif)
 
 ----
 
